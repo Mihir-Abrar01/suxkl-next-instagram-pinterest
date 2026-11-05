@@ -32,4 +32,4 @@ jobs:
           context: ./app
           file: ./app/Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/object-detector:latest
+          tags: ghcr.io/mihir-abrar01/object-detector:latest
